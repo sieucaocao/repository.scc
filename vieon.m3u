@@ -63,3 +63,7 @@ https://livecdn-vthcm-vnw.vieon.vn/EcSIaWlqq3Kpk6E1Pz6zkA/1712764093/livetv/enc/
 https://livecdn-vthcm-vnw.vieon.vn/O1JXc-oWGe1gwZxF5orCEw/1712764124/livetv/enc/d163c8c091b5c937a0b5789d2be251b4/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| THVL" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/tbZo2NR.png",THVL4
 https://livecdn-vthcm-vnw.vieon.vn/zfCPUNexC74Zog_-dWgnkA/1712764154/livetv/enc/759df25e7b439639ed0c2588b776735b/playlist.mpd?h=1080&c=a
+
+#====================Kênh Địa phương====================#
+#EXTINF:-1 tvg-id="cantho" tvg-logo="https://i.imgur.com/0fGI8cJ.png" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png",Cần Thơ
+https://live.canthotv.vn/live/tv/chunklist.m3u8
