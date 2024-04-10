@@ -26,13 +26,16 @@ https://livecdn-vthcm-vnw.vieon.vn/aHMczC2ewJQ1Y3Sbhqs3kg/1712763067/livetv/enc2
 
 #====================HTV====================#
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/b73e1bc4acf5b10a06ebbc91d2b4b08c/1712821790554/livetv/enc/93068c2a0ec828ae6ee56aa628341497/playlist.mpd?h=1080&c=a
+https://htvc271120.cdn.vnns.io/ff6984efea9ed7cda7430a46178096411713342722/htv1.720p.nimble.tms/chunks.m3u8
+#https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/b73e1bc4acf5b10a06ebbc91d2b4b08c/1712821790554/livetv/enc/93068c2a0ec828ae6ee56aa628341497/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="htv2" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/3fae1bcb4e06afd98baf157bd9e157c9/1712813760080/livetv/enc/84e39f2158e950a0d63d783260f7ea75/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/c1f589b8ec3cc28994f580caa1d077d2/1712822466495/livetv/enc/tam_dung_phat_song/playlist.mpd?h=1080&c=a
+https://htvc271120.cdn.vnns.io/6b805e66146d9301981a646d88b5613f1713342835/htv3.720p.nimble.tms/chunks.m3u8
+#https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/c1f589b8ec3cc28994f580caa1d077d2/1712822466495/livetv/enc/tam_dung_phat_song/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="htvkey" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/68f25d0b6360b289f71ce4b9ae344f0c/1712822327681/livetv/enc/91e13f38078114329b4b4d45f613924b/playlist.mpd?h=1080&c=a
+https://htvc271120.cdn.vnns.io/299e1dabac2a2de92793dca22311799a1713343326/htv4.480p.nimble.tms/chunks.m3u8
+#https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/68f25d0b6360b289f71ce4b9ae344f0c/1712822327681/livetv/enc/91e13f38078114329b4b4d45f613924b/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/afd87d5928147c887372e426ec6e17b0/1712821978270/livetv/enc/60efe6198ce953ae1411fb164e334367/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
