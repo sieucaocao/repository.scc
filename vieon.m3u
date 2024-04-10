@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
+#====================VTV====================#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://livecdn-vthcm-vnw.vieon.vn/13WsZ8crXWf5hlO0SQpbWA/1712762144/livetv/enc2/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
@@ -23,6 +24,7 @@ https://livecdn-vthcm-vnw.vieon.vn/p18_67vwwDovXAL9LmV-nQ/1712763035/livetv/enc2
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://livecdn-vthcm-vnw.vieon.vn/aHMczC2ewJQ1Y3Sbhqs3kg/1712763067/livetv/enc2/6f34d2d2b930641beddae9c9480005a7/playlist.mpd?h=1080&c=a
 
+#====================THVL====================#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
 https://livecdn-vthcm-vnw.vieon.vn/SZr-kFRxkgH5_A8Jk_jBKA/1712763995/livetv/enc/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.mpd?h=1080&c=a
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/kcanTCT.png",THVL2
