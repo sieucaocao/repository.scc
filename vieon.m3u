@@ -24,6 +24,10 @@ https://livecdn-vthcm-vnw.vieon.vn/p18_67vwwDovXAL9LmV-nQ/1712763035/livetv/enc2
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://livecdn-vthcm-vnw.vieon.vn/aHMczC2ewJQ1Y3Sbhqs3kg/1712763067/livetv/enc2/6f34d2d2b930641beddae9c9480005a7/playlist.mpd?h=1080&c=a
 
+#====================HTV====================#
+#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/3fae1bcb4e06afd98baf157bd9e157c9/1712813760080/livetv/enc/84e39f2158e950a0d63d783260f7ea75/playlist.mpd?h=1080&c=a
+
 #====================THVL====================#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
 https://livecdn-vthcm-vnw.vieon.vn/SZr-kFRxkgH5_A8Jk_jBKA/1712763995/livetv/enc/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.mpd?h=1080&c=a
