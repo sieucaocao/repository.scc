@@ -22,3 +22,12 @@ https://tthd.site/360/6/index.m3u8
 https://tthd.site/360/115/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://tthd.site/360/8/index.m3u8
+
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
+https://vod14-g12.tv360.vn:18443/252_2.m3u8?Range=428180870-428180871&SessionID=9e837f16-56d6-4077-bbe3-4e27ab67cf93
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/kcanTCT.png",THVL2
+https://vod-h14-hlc.tv360.vn:18443/249_1.m3u8?Range=285453943-285453944&SessionID=3aeddef5-9b79-45c4-8a8e-d10a6fda0aed
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/zS1zTpv.png",THVL3
+https://vod-h14-hlc.tv360.vn:18443/249_2.m3u8?Range=285453947-285453948&SessionID=3aeddef5-9b79-45c4-8a8e-d10a6fda0aed
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/tbZo2NR.png",THVL4
+https://live-bd2.tv360.vn/aOCFotS1RVKkvVMGMIhKig/1712810139/manifest/VinhLong4_HD/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=18834721
