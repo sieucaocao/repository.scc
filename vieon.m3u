@@ -14,7 +14,7 @@ https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8?timestamp=171284
 https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/f9f8e9642506e3174fbde4257880214e/1712851330486/livetv/enc2/c9e89fdf42233e52a57a312baa4e9da0/playlist.mpd?h=1080&c=a
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5
-https://live-bd2.tv360.vn/BKLGqs1NyzjPtLEFpW7ZhQ/1712912679/media-static/09ce11fd24/6f862904-7894-4fbb-9707-f56e4fe10d63/VTV5-HD-50fps-1080P-5M-11361861.ts?uid=18834721
+https://live-bd2.tv360.vn/eOdp9xrlrmzbfKA3rD6cmQ/1712913798/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=18834721
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png",VTV5 Tây Nam Bộ
 https://live-evg4.tv360.vn/gQDI1aELKrm78Zdpge4YHA/1712912721/manifest/VTV5-TNB/playlist_1080p.m3u8
