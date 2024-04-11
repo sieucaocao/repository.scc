@@ -11,7 +11,7 @@ https://live-evg4.tv360.vn/M_JewlVQhJpofR9uXIxMGw/1712912505/manifest/vtv2/playl
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8?timestamp=1712847807&token=ccf9307f72c947ed5265cc28b53c3d3c&uid=18834721
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",VTV4
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/f9f8e9642506e3174fbde4257880214e/1712851330486/livetv/enc2/c9e89fdf42233e52a57a312baa4e9da0/playlist.mpd?h=1080&c=a
+https://livecdn-vthcm-vnw.vieon.vn/-cCisTi_YQAAg88kw6QRAg/1712920751/livetv/enc2/c9e89fdf42233e52a57a312baa4e9da0/playlist.mpd?h=1080&c=a
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5
 https://live-bd2.tv360.vn/eOdp9xrlrmzbfKA3rD6cmQ/1712913798/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=18834721
@@ -26,10 +26,10 @@ https://live-bd2.tv360.vn/IaQfAY7cYirnl75gKa3H6w/1712912769/manifest/VTV5_Tay_Ng
 https://live-evg4.tv360.vn/JJE2rTTmSgZZSVVYP_AD7g/1712912817/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png",VTV7
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/f7c55b9ee475fd1f8688c2cac049e4f3/1712899382123/livetv/enc2/67d1c84cac97171d714848c4c34c2b3a/playlist.mpd?h=1080&c=h
+https://livecdn-vthcm-vnw.vieon.vn/DhUz8edTwMRyUARNHjfrWA/1712920973/livetv/enc2/67d1c84cac97171d714848c4c34c2b3a/tracks-v2/seg-1711594145-32890.m4v?t=1240481052
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png",VTV8
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/ddbe2206f799fc7bdfe5ae84511529c3/1712851554923/livetv/enc2/fd6b24e22924ecd153258819ba2049b8/playlist.mpd?h=1080&c=h
+https://livecdn-vthcm-vnw.vieon.vn/Irr_bOwcCXmVgkRg_ax8xg/1712920875/livetv/enc2/fd6b24e22924ecd153258819ba2049b8/playlist.mpd?h=1080&c=h
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png",VTV9
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/5d0b67b0dae363e8e20df93b202d3178/1712851572780/livetv/enc2/6f34d2d2b930641beddae9c9480005a7/playlist.mpd?h=1080&c=a
+https://livecdn-vthcm-vnw.vieon.vn/eozYlEAZvlfRcK_R3dpTjA/1712921050/livetv/enc2/6f34d2d2b930641beddae9c9480005a7/tracks-v2/seg-1711594144-32894.m4v?t=1240508287
