@@ -38,7 +38,7 @@ https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv6-720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+#https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv7-720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
