@@ -17,10 +17,10 @@ http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/56.m3u8
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/9.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://vtvgolive-vtv.vtvdigital.vn/Azb_yqH829rCfCsIGbUDwA/1718799614/vtvgo/vtv5tnb-manifest.m3u8
+http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
-https://vtvgolive-vtv.vtvdigital.vn/JTvK7j8IqkUqdXx_8gMkng/1718799642/vtvgo/vtv5tn-manifest.m3u8
+http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/qv5erJg.png",VTV Cần Thơ
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/57.m3u8
