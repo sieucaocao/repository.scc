@@ -17,8 +17,8 @@ http://171.238.181.52:18080/155_2.m3u8?AdaptiveType=HLS
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/56.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-#http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/9.m3u8
-http://171.238.181.52:18080/194_2.m3u8?AdaptiveType=HLS
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/9.m3u8
+#http://171.238.181.52:18080/194_2.m3u8?AdaptiveType=HLS
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
