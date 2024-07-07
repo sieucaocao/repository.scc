@@ -2,39 +2,34 @@
 #-*--VTV--*-#
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-#http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/53.m3u8
-http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnREoyNndEb3lqOUR0R2tJd3FobnVCZXc9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-#http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/54.m3u8
-http://171.238.181.52:18080/192_2.m3u8?AdaptiveType=HLS
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRGVySHMwV3VldGVmQmJCdlZPdEhUV3c9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-#http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/55.m3u8
-http://171.238.181.52:18080/155_2.m3u8?AdaptiveType=HLS
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRFZpNmZFYjJUd01QK2QwYVV5R2tIcXc9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/56.m3u8
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRHk4M2NnMndobno2eFZlamZRQTZXaHkwbXdmdXZXankyNGQzay96ZlUyMTA9/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/9.m3u8
-#http://171.238.181.52:18080/194_2.m3u8?AdaptiveType=HLS
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRHBCbTY2QWo5dDh6NnN1bDVjNndWSWx1VEZMcjVXNVVlUkhSZDlKTTVoS1k9/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRG1yUHBWdjh4VTg2TDNIWFlyeVdaWkc4cWFRQnR4TFVaWHZ3VGFIVVRpa3M9/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
-http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRC9VZHZUSkQyaTBBM3M2VDZ5Z3NlUEdYdEw5bzJiY1kwdWkzSzYwNjVKdm89/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/qv5erJg.png",VTV Cần Thơ
-#http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/57.m3u8
-http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRHhDd0RVTE5Pd0NhR25SeHFDUWs5UVE9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/58.m3u8
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRGtvbThMR2tkQlhGMHphcUZFNHhKemc9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/59.m3u8
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnREdBekNhS2xzcHMzUk95OHZUWnViQjhMb2FjNTgyTG9tY2VGZUFHdWlMU2s9/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/60.m3u8
+https://tv.volam.pro/playlist/tvonline/Yyt3UWRKNG5zSWhwV3BpelRLN2YzUjgrVHprZVZrTDU3d3h1THczMTI2dnVYRkxwQWpMUVRxQ3EyZU5QNEtnRFFKd1RIaEtKak1TRVNpTVNGUHdQUWc9PQ==/master.m3u8
