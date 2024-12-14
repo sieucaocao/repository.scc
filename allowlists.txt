@@ -1,6 +1,4 @@
 imasdk.googleapis.com
-pagead2.googlesyndication.com
-googletagmanager.com
 app.appsflyer.com
 app.adjust.com
 js.monitor.azure.com
