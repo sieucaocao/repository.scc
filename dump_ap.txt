@@ -1,0 +1,10 @@
+/etc/rc.local
+
+  
+# these services do not run on dumb APs
+for i in firewall dnsmasq odhcpd; do
+  if /etc/init.d/"$i" enabled; then
+    /etc/init.d/"$i" disable
+    /etc/init.d/"$i" stop
+  fi
+done
