@@ -1,6 +1,3 @@
-! Title: Anti Revoke & Block iOS OTA Update
-
-! Anti Revoke
 ||vpp.itunes.apple.com^
 ||appattest.apple.com^
 ||certs.apple.com^
@@ -8,6 +5,4 @@
 ||valid.apple.com^
 ||ocsp2.apple.com^
 ||ocsp.apple.com^
-
-! Block iOS OTA Update
 ||gdmf.apple.com^
