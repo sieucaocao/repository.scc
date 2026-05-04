@@ -1,4 +1,3 @@
 ! Title: Allowlist
-! Description: Whitelist các domain thủ công, tránh bị block nhầm
 
 @@||app.localhost.direct^
