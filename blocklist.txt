@@ -11,3 +11,13 @@
 !
 ! Block iOS OTA Update 
 ||gdmf.apple.com^
+!
+! Other
+||connect.facebook.net^
+||connect.facebook.com^
+||ep*.facebook.com^
+||dns.ladipage.com^
+||dns.webcake.io^
+||dns.storecake.io^
+||invl.io^
+||invl.me^
