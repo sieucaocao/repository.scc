@@ -1,3 +1,21 @@
 ! Title: Whitelist
 !
+@@||imasdk.googleapis.com^
+@@||analytics.google.com^
+@@||app.appsflyer.com^
+@@||app.adjust.com^
+@@||js.monitor.azure.com^
+@@||c.office.com^
+@@||measure.office.com^
+@@||click.discord.com^
+@@||za.zalo.me^
+@@||cdn.cookielaw.org^
+@@||wsapi.master.live^
+@@||html-load.com^
+@@||content-loader.com^
+@@||dd.garena.com^
+@@||analytics.adjust.com^
+@@||analytics.adjust.io^
+@@||analytics.adjust.net.in^
+@@||analytics.adjust.world^
 @@||app.localhost.direct^
