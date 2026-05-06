@@ -1,5 +1,5 @@
 ! Title: Blocklist
-!
+
 ! Anti Revoke
 ||vpp.itunes.apple.com^
 ||appattest.apple.com^
@@ -8,10 +8,15 @@
 ||valid.apple.com^
 ||ocsp2.apple.com^
 ||ocsp.apple.com^
-!
+
 ! Block iOS OTA Update 
 ||gdmf.apple.com^
-!
+
+! DNS Canary Domains (Disable Firefox DoH & Apple Private Relay)
+||use-application-dns.net^
+||mask.icloud.com^
+||mask-h2.icloud.com^
+
 ! Other
 ||connect.facebook.net^
 ||connect.facebook.com^
