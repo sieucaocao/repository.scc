@@ -19,3 +19,4 @@
 @@||analytics.adjust.net.in^
 @@||analytics.adjust.world^
 @@||app.localhost.direct^
+@@||googletagmanager.com^
