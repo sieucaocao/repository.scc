@@ -1,42 +1,6 @@
 ! Title: sieucaocao
 ! Description: Whitelist
 
-! Mở browser ra nếu không thì không cài được addon trên Cốc Cốc
-@@||browser.coccoc.com^
-@@||safe-browsing-api.coccoc.com^
-@@||accounts.coccoc.com^
-@@||points.coccoc.com^
-
-! Mặc định Edge không chặn url bên dưới, nếu không sẽ không gọi được tới Google Search
-@@||edge.microsoft.com^
-
-! Bỏ chặn toàn bộ các domain Cloudflare cho an toàn
-@@||cloudflare.com^
-@@||cloudflare.net^
-@@||cloudflareinsights.com^
-
-! Bỏ chặn toàn bộ các domain Bitwarden cho an toàn
-@@||bitwarden.com^
-@@||vault.bitwarden.com^
-@@||vault.bitwarden.eu^
-
-# Bỏ chặn pagead2.googlesyndication.com (vì 1 số domain cần hiện ra mới cho dùng)
-# Trên Adnroid, iOS hiện nhiều quảng cáo hơn
-# Trên Windows dùng Ublock ... chặn như thông thường
-@@||pagead2.googlesyndication.com^
-@@||googletagmanager.com^
-
-! Trang bị chặn nhầm
-@@||umami.is^
-@@||controld.com^
-@@||tolt.io^
-@@||iplocate.io^
-@@||vlxx.bz^
-@@||vlxx.ms^
-@@||click.mz.simba.taobao.com^
-@@||click.tz.simba.taobao.com^
-
-! Other
 @@||imasdk.googleapis.com^
 @@||analytics.google.com^
 @@||app.appsflyer.com^
