@@ -2,6 +2,8 @@
 ! Description: Whitelist
 
 @@||imasdk.googleapis.com^
+@@||pagead2.googlesyndication.com^
+@@||googletagmanager.com^
 @@||analytics.google.com^
 @@||app.appsflyer.com^
 @@||app.adjust.com^
