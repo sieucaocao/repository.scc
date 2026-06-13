@@ -13,7 +13,7 @@
 ! Block iOS OTA Update 
 ||gdmf.apple.com^
 
-! Disable Firefox DoH & Apple Private Relay
+! Disable Firefox DoH & iCloud Private Relay
 ||use-application-dns.net^
 ||mask.icloud.com^
 ||mask-h2.icloud.com^
