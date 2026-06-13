@@ -13,7 +13,7 @@
 ! Block iOS OTA Update 
 ||gdmf.apple.com^
 
-! Firefox DoH & iCloud Private Relay
+! Bypass Firefox DoH & iCloud Private Relay
 ||use-application-dns.net^
 ||mask.icloud.com^
 ||mask-h2.icloud.com^
